@@ -1,0 +1,89 @@
+E:\shamsu z\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\shamsu z\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\shamsu z\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+Z:\Windows Form Applications\Calculator\Calculator\bin\Debug\Calculator.exe
+Z:\Windows Form Applications\Calculator\Calculator\bin\Debug\Calculator.pdb
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Windows Form Applications\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SHAMSU\Desktop\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\bin\Debug\Calculator.exe
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\SHAMSU\Desktop\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.exe
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\shamseer\Desktop\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.exe
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.pdb
+Z:\new Calculator\Calculator - Copy\Calculator\bin\Debug\Calculator.exe
+Z:\new Calculator\Calculator - Copy\Calculator\bin\Debug\Calculator.pdb
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\new Calculator\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.exe
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\Calculator.pdb
+Z:\Calculator - Copy\Calculator\bin\Debug\Calculator.exe
+Z:\Calculator - Copy\Calculator\bin\Debug\Calculator.pdb
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Calculator - Copy\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Windows Form Applications\Calculator - standard\Calculator - Final\Calculator\obj\x86\Debug\Calculator.exe
+Z:\Windows Form Applications\Calculator - standard\Calculator - Final\Calculator\obj\x86\Debug\Calculator.pdb
+F:\profession\software development\software for reference\cybrosys training excercises\During Training\from z\Windows Form Applications\Calculator - standard\Calculator - Final\Calculator\obj\x86\Debug\Calculator.exe
+F:\profession\software development\software for reference\cybrosys training excercises\During Training\from z\Windows Form Applications\Calculator - standard\Calculator - Final\Calculator\obj\x86\Debug\Calculator.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\Calculator.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\Calculator.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\bin\Debug\Calculator.exe
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\bin\Debug\Calculator.pdb
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\profession\Youtube Channel\Dotnet Mob\Windows Application\C# Complete Calculator\Project\Calculator - Final\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\bin\Debug\Calculator.exe
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\bin\Debug\Calculator.pdb
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\WindowsFormsApplication1.frmCalculator.resources
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\Calculator.exe
+\\VBOXSVR\Downloads\Complete C# Calculator\Calculator - Final\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\anton\Desktop\Calculator\bin\Debug\Calculator.exe
+C:\Users\anton\Desktop\Calculator\bin\Debug\Calculator.pdb
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\WindowsFormsApplication1.Calculator.resources
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\anton\Desktop\Calculator\obj\x86\Debug\Calculator.pdb
